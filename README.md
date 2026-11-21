@@ -41,7 +41,7 @@
 
 2. **Clone and compile:**
    ```bash
-   git clone https://github.com
+   git clone https://github.com/motprogrammer11/FallStarEngine.git
    cd FallStarEngine
 
    g++ main.cpp Engine/FallStarEngine.cpp -IEngine -o game -lraylib -lbox2d -lm
@@ -137,7 +137,7 @@ int main() {
 
 2. **Клонирование и компиляция:**
    ```bash
-   git clone https://github.com
+   git clone https://github.com/motprogrammer11/FallStarEngine.git
    cd FallStarEngine
 
    g++ main.cpp Engine/FallStarEngine.cpp -IEngine -o game -lraylib -lbox2d -lm
