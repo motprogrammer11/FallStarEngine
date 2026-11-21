@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/logo.png" alt="FallStar Engine Logo" width="420">
+  <img src="logo.png" alt="FallStar Engine Logo" width="420">
 
   # ⭐ FallStar Engine (v1.1)
 
