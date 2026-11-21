@@ -44,7 +44,7 @@
    git clone https://github.com/motprogrammer11/FallStarEngine.git
    cd FallStarEngine
 
-   g++ main.cpp Engine/FallStarEngine.cpp -IEngine -o game -lraylib -lbox2d -lm
+   g++ main.cpp FallStarEngine.cpp -IEngine -o game -lraylib -lbox2d -lm
    ./game
    ```
 
@@ -140,7 +140,7 @@ int main() {
    git clone https://github.com/motprogrammer11/FallStarEngine.git
    cd FallStarEngine
 
-   g++ main.cpp Engine/FallStarEngine.cpp -IEngine -o game -lraylib -lbox2d -lm
+   g++ main.cpp FallStarEngine.cpp -IEngine -o game -lraylib -lbox2d -lm
    ./game
    ```
 
